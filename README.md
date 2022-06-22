@@ -1,7 +1,7 @@
 # Allies
 
 ## Give Us Some Recommendation
-* Join our [Discord group](https://discord.gg/j5Rre3mn)
+* Join our [Discord group](https://discord.gg/A9ZcYh4WcM)
 * Post a [new issue](https://github.com/211workshop/allies/issues/new/choose)
 * Send an e-mail to 211workshop.cs@gmail.com
 
